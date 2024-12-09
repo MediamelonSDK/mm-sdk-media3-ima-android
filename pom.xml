@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.MediamelonSDK</groupId>
-    <artifactId>media3-ima-lib-release</artifactId>
+    <artifactId>mmsmartstreaming-media3-ima</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
     <description>Android media3 ima library publishing</description>
